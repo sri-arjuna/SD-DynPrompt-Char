@@ -1,1 +1,1 @@
-( {purple|red|blue|green|cyan|grey} colored skin:1.5), (unnatural skin color:1.5) , 
+(unnatural skin color:1.5) , ( {purple|red|blue|green|cyan|grey} colored skin:1.5), 

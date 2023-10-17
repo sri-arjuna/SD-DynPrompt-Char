@@ -1,1 +1,6 @@
-({purple|red|blue|green} colored skin:1.5), (unnatural skin color:1.5)
+a dwarf with __char/color/skin__ (( __char/color/eye__ )) , ((short torso:1.3)) , ((short legs:1.3)), ((short stature:1.3)), 
+a {dark|wood|high} elf with { __char/color/skin__ |__char/color/skin-rp__ } , elf ears , (( __char/color/eye-rp__ )) , 
+a { __char/color/skin__ |__char/color/skin-rp__ } succubus with ({succubus|dragon|bat} horns and wings and tail) and (( {animal|vampire|demonic} __char/color/eye-rp__ )) , 
+a furry with with {cat|wolf|bunny|fox} ears and tails, (( {animal|humanoid} __char/color/eye-rp__ )) , 
+a { __char/color/skin__ |__char/color/skin-rp__ } {fae|fairy} with ({succubus|fae} horns and wings and tail) and (( {animal|vampire|humanoid|demonic} { __char/color/eye-rp__ | __char/color/eye-rp__ } )) , 
+a { __char/color/skin__ |__char/color/skin-rp__ } angel with ({intricate|glowing|flaming}:1.2) ( { succubus | feather | dragon } wings:1.5)  and {elf|human} ears, (( { __char/color/eye-rp__ | __char/color/eye-rp__ } )) , and a {shiny|glowing|iridescent} halo hovering over the head, 

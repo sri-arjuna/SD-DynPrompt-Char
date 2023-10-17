@@ -1,0 +1,1 @@
+{ brown | white | rose | black | yellow } colored skin, 
