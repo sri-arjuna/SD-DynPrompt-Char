@@ -1,0 +1,7 @@
+black, 
+white, 
+crimson red, 
+royal blue, 
+gold, 
+silver, 
+violet, 

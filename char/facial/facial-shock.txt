@@ -1,0 +1,3 @@
+Fear { Terrified | Scared | Anxious | Apprehensive | Nervous | Panicked },
+Confusion { Bewildered | Perplexed | Baffled | Disoriented | Muddled | Puzzled },
+Surprise { Amazed | Astonished | Startled | Shocked | Puzzled | Stunned },

@@ -1,0 +1,4 @@
+Angry { Furious | Irate | Enraged | Irritated | Indignant | Wrathful }
+Disgust { Revolted | Repulsed | Sickened | Appalled | Loathsome | Abhorrent }
+Sad { Mournful | Depressed | Heartbroken | Sorrowful | Disheartened | Melancholic }
+Contempt { Scornful | Dismissive | Haughty | Superior | Derisive | Mocking | Smirk }

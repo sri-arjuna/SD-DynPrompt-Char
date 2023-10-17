@@ -1,0 +1,2 @@
+__char/race/aio__ 
+__char/race/mixed__ 

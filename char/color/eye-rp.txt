@@ -1,0 +1,5 @@
+{iridescent|glowing} {golden|purple|blue|green|white|silver|red|cyan|orange} eyes, 
+{iridescent|glowing} {golden|purple|blue|green|white|silver|red|cyan|orange} {cat|animal|wolf} eyes, 
+{golden|silver} eyes, 
+{purple|violet} eyes, 
+__char/color/eye__ ,

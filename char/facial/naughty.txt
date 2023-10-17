@@ -1,0 +1,2 @@
+__fake/zlib/emotion/aroused__
+__fake/zlib/emotion/NSFW__

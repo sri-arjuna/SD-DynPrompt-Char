@@ -1,0 +1,1 @@
+South American { Brazilian | Chilean | Argentine | Peruvian | Ecuadorian | Bolivian | Uruguayan | Paraguayan | Guyanese | Surinamese },

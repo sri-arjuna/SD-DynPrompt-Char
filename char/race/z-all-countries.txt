@@ -1,0 +1,7 @@
+Caucasian { French | Russian | Swedish | Nordic | Irish | Spanish | Italian | Swiss | German | British },
+Asian { Chinese | Japanese | Korean | Taiwanese | Indian | Vietnamese | Thai | Filipino | Malaysian | Indonesian },
+African { Nigerian | Kenyan | South African | Ethiopian | Egyptian | Moroccan | Ghanaian | Ivorian | Senegalese | Sudanese },
+Middle Eastern { Iranian | Arabian | Israeli | Turkish | Egyptian | Lebanese | Iraqi | Jordanian | Saudi Arabian | Kuwaiti },
+Hispanic { Mexican | Colombian | Argentine | Chilean | Peruvian | Cuban | Puerto Rican | Dominican | Guatemalan | Venezuelan },
+South American { Brazilian | Chilean | Argentine | Peruvian | Ecuadorian | Bolivian | Uruguayan | Paraguayan | Guyanese | Surinamese },
+North American { American | Canadian | Mexican | Jamaican | Haitian | Dominican | Cuban | Puerto Rican | Bahamian | Belizean }

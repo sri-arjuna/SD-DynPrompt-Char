@@ -1,0 +1,2 @@
+Happiness { Joyful | Ecstatic | Delighted | Jubilant | Blissful | Euphoric }
+Neutral { Thinking | Contemplative | Calm | Composed | Tranquil | Reflective }

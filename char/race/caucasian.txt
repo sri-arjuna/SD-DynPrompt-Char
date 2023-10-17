@@ -1,0 +1,2 @@
+Caucasian { French | Russian | Swedish | Nordic | Irish | Spanish | Italian | Swiss | German | British }, 
+North American { American | Canadian }, 

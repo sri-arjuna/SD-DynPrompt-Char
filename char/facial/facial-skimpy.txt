@@ -1,0 +1,16 @@
+Aroused { Seductive | Flirtatious | Passionate | Sensual | Provocative | Alluring }
+NSFW { Blushing | Moaning | Panting | Flushed | Sultry | Desirous }
+
+
+
+
+(smirking:1.5), (cute:1.2), 
+(suggestive:1.3), (cheeky:1.3), (cute:1.2), 
+((seductive smile:1.4)), ((smirking:1.1)), 
+((seductive smile:1.4)), ((smirking:1.1)), (suggestive:1.3), {slightly|heavy} blushed, 
+((seductive smile:1.4)), ((smirking:1.1)), (cheeky:1.3), (cute:1.2), 
+((seductive smile:1.4)), ((smirking:1.1)), (cute:1.2), 
+((seductive smile:1.4)), ((smirking:1.1)), (cheeky:1.3), (cute:1.2), 
+((seductive smile:1.4)), ((smirking:1.1)), (suggestive:1.3), {slightly|heavy} blushed, (cute:1.2), 
+((seductive smile:1.4)), (suggestive:1.3), (cute:1.3), (Bold Smile:1.5), 
+((seductive smile:1.4)), (suggestive:1.3), (cute:1.2), {slightly|heavy} blushed, 
