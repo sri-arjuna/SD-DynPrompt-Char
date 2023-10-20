@@ -1,5 +1,42 @@
 # SD DynPrompt - Char
 
+Got tired of "creating new characters"? \
+Try this random char generation!
+
+It supports 2 "modes":
+* SFW === CivitAI TOS protection (if your image gets flaged, its due to the SD-model, not the keywords)
+* Sexy === For local or anime characters, hot and spicy!
+
+That said, it offers also:
+* Fantasy RP characters (Dwarf, Elf, Succubus, Furry, Fae, Angel)
+* Sci-Fi Clothing
+
+
+## Basic Usage:
+
+This excludes Fantasy RP characters.
+
+	__char/aio-sfw__
+
+If you want to dress the character on your own, just skip the "aio" part:
+
+	__char/sfw__
+
+
+## Clothing:
+
+So, you have your character and want different clothings but are tired to trying? \
+Try this:
+
+	__char/cloth/sfw__
+
+Get me right, its all random! \
+No guarantee for aproriate or matching clothing, but you'll definitly get ***a lot*** of differenty outfits!
+
+
+
+
+
 In my conquest to get "an easy as possible" prompt, with as many things "automated" as possible, "SD DynPrompt Char" is just one of multiple packages.
 
 It is ment to be either "standalone" if you want to define your backgrounds on your own, or as dependency if you want to use my "SD DynPrompt Landscape XL" which provides stunning and awesome landscape prompts.
