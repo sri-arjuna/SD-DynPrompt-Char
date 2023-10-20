@@ -1,2 +1,3 @@
-Happiness { Joyful | Ecstatic | Delighted | Jubilant | Blissful | Euphoric }
-Neutral { Thinking | Contemplative | Calm | Composed | Tranquil | Reflective }
+__char/emotion/happy__
+__char/emotion/neutral__
+__char/emotion/smile__

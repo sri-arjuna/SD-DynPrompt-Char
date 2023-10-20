@@ -1,0 +1,2 @@
+__char/emotion/aroused__
+__char/emotion/nsfw__

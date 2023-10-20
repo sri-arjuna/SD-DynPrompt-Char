@@ -1,4 +1,2 @@
-Angry { Furious | Irate | Enraged | Irritated | Indignant | Wrathful }
-Disgust { Revolted | Repulsed | Sickened | Appalled | Loathsome | Abhorrent }
-Sad { Mournful | Depressed | Heartbroken | Sorrowful | Disheartened | Melancholic }
-Contempt { Scornful | Dismissive | Haughty | Superior | Derisive | Mocking | Smirk }
+{ __char/emotion/angry__ | __char/emotion/disgust__ | __char/emotion/sad__ }
+__char/emotion/contempt__

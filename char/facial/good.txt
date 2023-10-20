@@ -1,5 +1,5 @@
 
-__fake/zlib/emotion/happy__ 
-__fake/zlib/emotion/smile__ 
-__fake/zlib/emotion/neutral__ 
-__fake/zlib/emotion/contempt__ 
+__char/emotion/happy__ 
+__char/emotion/smile__ 
+__char/emotion/neutral__ 
+__char/emotion/contempt__ 

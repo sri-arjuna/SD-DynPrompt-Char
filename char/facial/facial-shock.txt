@@ -1,3 +1,8 @@
+__char/emotion/fear__
+__char/emotion/confusion__
+__char/emotion/surprise__
+
+
 Fear { Terrified | Scared | Anxious | Apprehensive | Nervous | Panicked },
 Confusion { Bewildered | Perplexed | Baffled | Disoriented | Muddled | Puzzled },
 Surprise { Amazed | Astonished | Startled | Shocked | Puzzled | Stunned },
