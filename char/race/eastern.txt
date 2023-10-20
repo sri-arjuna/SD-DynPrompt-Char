@@ -1,1 +1,1 @@
-Middle Eastern { Iranian | Arabian | Israeli | Turkish | Egyptian | Lebanese | Iraqi | Jordanian | Saudi Arabian | Kuwaiti },
+Middle Eastern { Iranian | Arabian | Israeli | Turkish | Egyptian | Lebanese | Iraqi | Jordanian | Saudi Arabian | Kuwaiti }, 

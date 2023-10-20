@@ -1,1 +1,0 @@
-North American { American | Canadian | Mexican | Jamaican | Haitian | Dominican | Cuban | Puerto Rican | Bahamian | Belizean },

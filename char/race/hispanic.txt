@@ -1,1 +1,1 @@
-Hispanic { Mexican | Colombian | Argentine | Chilean | Peruvian | Cuban | Puerto Rican | Dominican | Guatemalan | Venezuelan },
+Hispanic { Mexican | Colombian | Argentine | Chilean | Peruvian | Cuban | Puerto Rican | Dominican | Guatemalan | Venezuelan }, 

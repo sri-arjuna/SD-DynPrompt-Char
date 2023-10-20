@@ -1,1 +1,1 @@
-African { Nigerian | Kenyan | South African | Ethiopian | Egyptian | Moroccan | Ghanaian | Ivorian | Senegalese | Sudanese },
+African { Nigerian | Kenyan | South African | Ethiopian | Egyptian | Moroccan | Ghanaian | Ivorian | Senegalese | Sudanese }, 
