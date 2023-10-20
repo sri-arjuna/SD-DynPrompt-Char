@@ -1,3 +1,0 @@
-__char/emotion/happy__
-__char/emotion/neutral__
-__char/emotion/smile__

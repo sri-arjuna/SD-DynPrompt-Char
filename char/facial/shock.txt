@@ -1,0 +1,3 @@
+__char/emotion/fear__
+__char/emotion/confusion__
+__char/emotion/surprise__
