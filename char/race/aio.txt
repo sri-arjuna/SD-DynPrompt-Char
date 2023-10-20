@@ -5,4 +5,3 @@ __char/race/asian__
 __char/race/caucasian__
 __char/race/eastern__
 __char/race/hispanic__
-__char/race/rp__
