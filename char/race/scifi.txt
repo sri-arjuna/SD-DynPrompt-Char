@@ -1,0 +1,3 @@
+__char/race/any__
+a cyborg with __char/color/skin-rp__ with tatoo of {black|glowing pink|iridescent green|iridescent cyan|glowing red} colored accents emphasising the body, {glowing|iridescent} intricate cyborg eyes, exposing mechanical structure under the skin of limbs, 
+an android with a humanoid skin of __char/color/skin-rp__ with ({tatoo|skin connections} of {black|glowing pink|iridescent green|iridescent cyan|glowing red} colored accents emphasising the body:1.3), {glowing|iridescent} intricate cyborg eyes, 
