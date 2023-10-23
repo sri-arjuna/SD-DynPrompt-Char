@@ -1,1 +1,1 @@
-{ Revolted | Repulsed | Sickened | Appalled | Loathsome | Abhorrent }, 
+{1-2$$ Revolted | Repulsed | Sickened | Appalled | Loathsome | Abhorrent }, 

@@ -1,1 +1,2 @@
-{ Joyful | Ecstatic | Delighted | Jubilant | Blissful | Euphoric } {smiling|laughing}, 
+{{1-2$$ and $$ Joyful | Ecstatic | Delighted | Jubilant | Blissful | Euphoric }} smiling, { (closed mouth:1.5) | (perfect teeth:1.5) } , 
+{{1-2$$ and $$ Joyful | Ecstatic | Delighted | Jubilant | Blissful | Euphoric }} laughing, (perfect teeth:1.5) , 

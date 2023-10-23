@@ -1,1 +1,1 @@
-{ Furious | Irate | Enraged | Irritated | Indignant | Wrathful }, 
+{1-2$$ Furious | Irate | Enraged | Irritated | Indignant | Wrathful }, 

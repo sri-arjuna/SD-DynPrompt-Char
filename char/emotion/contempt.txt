@@ -1,1 +1,1 @@
-{ Scornful | Dismissive | Haughty | Superior | Derisive | Mocking | Smirk }, 
+{1-2$$ Scornful | Dismissive | Haughty | Superior | Derisive | Mocking | Smirk }, 
