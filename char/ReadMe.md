@@ -28,7 +28,7 @@ If you want to dress the character on your own, just skip the "aio" part:
 So, you have your character and want different clothings but are tired to trying? \
 Try this:
 
-	__char/cloth/sfw__
+	__char/cloth/aio-sfw__
 
 Get me right, its all random! \
 No guarantee for aproriate or matching clothing, but you'll definitly get ***a lot*** of differenty outfits!
