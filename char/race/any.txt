@@ -1,4 +1,6 @@
-{2::__char/race/caucasian__ |__char/race/american__}
+{2::__char/race/caucasian__ | __char/race/american__ }
+{2::__char/race/caucasian__ | __char/race/hispanic__ }
+{2::__char/race/american__ | __char/race/african__ | __char/race/asian__ | __char/race/hispanic__ }
 __char/race/african__
 __char/race/american__
 __char/race/asian__
