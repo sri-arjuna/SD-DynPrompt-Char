@@ -104,3 +104,22 @@ I use the style below only to make the list/table shorter:
 | facial/flirt 		| Returns: aroused (like: seductive, flirtatious) or NSFW (incl: blushing, panting) facial expressions 	|
 | facial/good 		| Returns: happy, neutral or otherwise smiling facial expressions 	(best pick for most images)			|
 | facial/shock 		| Returns: fearful, confused or surprised facial expressions 											|
+
+
+
+# Trigger Words
+
+For easy copy-paste to update the Civit AI page.
+
+__char/aio-sfw__
+__char/aio-sexy__
+__char/rp-sfw__
+__char/rp-sexy__
+__char/scifi-rp__
+__char/scifi-sexy__
+
+__char/race__
+__char/facial/bad__
+__char/facial/flirt__
+__char/facial/good__
+__char/facial/shock__
