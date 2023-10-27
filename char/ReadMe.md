@@ -7,7 +7,7 @@ Try this random char generation!
 
 --> Requires [DynamicPrompt](https://github.com/adieyal/sd-dynamic-prompts), will NOT work with AutomaticWildcards! <--
 
-* For images generated with this dynamic prompt, please see: [CivitAI]()
+* For images generated with this dynamic prompt, please see: [CivitAI](https://civitai.com/models/178779/dynamicprompt-char)
 * Designed to be used with [DynPrompt - BG](https://github.com/sri-arjuna/SD-DynPrompt-BG) (or see images of that on [CivitAI}(https://civitai.com/models/160192/background-xl))
 
 --------------------
