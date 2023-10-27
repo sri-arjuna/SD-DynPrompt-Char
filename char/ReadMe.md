@@ -8,7 +8,8 @@ Try this random char generation!
 --> Requires [DynamicPrompt](https://github.com/adieyal/sd-dynamic-prompts), will NOT work with AutomaticWildcards! <--
 
 * For images generated with this dynamic prompt, please see: [CivitAI](https://civitai.com/models/178779/dynamicprompt-char)
-* Designed to be used with [DynPrompt - BG](https://github.com/sri-arjuna/SD-DynPrompt-BG) (or see images of that on [CivitAI}(https://civitai.com/models/160192/background-xl))
+* Full description and most recent versions on [GitHub](https://github.com/sri-arjuna/SD-DynPrompt-Char)
+* Designed to be used with [DynPrompt - BG](https://github.com/sri-arjuna/SD-DynPrompt-BG) (or see images of that on [CivitAI](https://civitai.com/models/160192/background-xl))
 
 --------------------
 
@@ -23,6 +24,11 @@ That said, it offers also 3 styles, of races and clothing:
 
 The main purpose is for "modern use", thus, for RP and Sci-Fi, the use varies slightly. \
 See Basic Usage.
+
+## Installation:
+
+* Extract the contained ./char folder to your wildcard directory.
+* So it looks like: (WebUI_DIR)./extensions/sd-dynamic-prompts/wildcards/char
 
 
 ## Basic Usage:
