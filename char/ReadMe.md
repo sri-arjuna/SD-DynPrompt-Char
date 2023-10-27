@@ -3,18 +3,31 @@
 Got tired of "creating new characters"? \
 Try this random char generation!
 
+--------------------
+
+--> Requires [DynamicPrompt](https://github.com/adieyal/sd-dynamic-prompts), will NOT work with AutomaticWildcards! <--
+
+* For images generated with this dynamic prompt, please see: [CivitAI]()
+* Designed to be used with [DynPrompt - BG](https://github.com/sri-arjuna/SD-DynPrompt-BG) (or see images of that on [CivitAI}(https://civitai.com/models/160192/background-xl))
+
+--------------------
+
 It supports 2 "modes":
-* SFW === CivitAI TOS protection (if your image gets flaged, its due to the SD-model, not the keywords)
+* SFW === CivitAI TOS protection (if your image gets flaged, its due to the SD/XL-model or pose, not the keywords)
 * Sexy === For local or anime characters, hot and spicy!
 
-That said, it offers also:
+That said, it offers also 3 styles, of races and clothing:
+* Modern clothing
 * Fantasy RP characters (Dwarf, Elf, Succubus, Furry, Fae, Angel)
 * Sci-Fi Clothing
+
+The main purpose is for "modern use", thus, for RP and Sci-Fi, the use varies slightly. \
+See Basic Usage.
 
 
 ## Basic Usage:
 
-This excludes Fantasy RP characters.
+This excludes Fantasy RP and Sci-Fi styles.
 
 	__char/aio-sfw__
 
@@ -22,11 +35,27 @@ If you want to dress the character on your own, just skip the "aio" part:
 
 	__char/sfw__
 
+### RP / Fantasy
+
+Now, RP/Fantasy and Sci-Fi offers a similar approach:
+
+	__char/rp-sfw__
+
+This would generate a SFW body with a RP race (off chance for human). \
+There is no RP/Fantasy clothing prepared, either you rely on the AI for aproriate clothing, or define it yourself.
+
+# Science Fiction:
+
+Or, of course:
+
+	__char/scifi-sexy__
+
+Which would produce a NSFW body and a scifi char (android, cyborg) with an off chance for human), using the the scifi-sexy clothing file.
 
 ## Clothing:
 
 So, you have your character and want different clothings but are tired to trying? \
-Try this:
+How about:
 
 	__char/cloth/aio-sfw__
 
@@ -35,33 +64,37 @@ No guarantee for aproriate or matching clothing, but you'll definitly get ***a l
 
 
 
+# Call - List:
+
+Please keep in mind, you should use this syntax:
+
+	{ __char/aio-sfw__ | __char/rp-sfw__ }
+
+I use the style below only to make the list/table shorter:
+
+> Keep in mind, always use ``__char/<CALL>__``
+
+| Call 				| Result		|
+|-------------------|---------------|
+| aio-{sfw/sexy}	| Generates body, race, modern clothing 		|
+| rp-{sfw/sexy}		| Generates body, fantasy race 					|
+| scifi-{sfw/sexy}	| Generates body, scifi race, scifi clothing 	|
+| race 				| Returns a random race (human), 100% or mixed	|
+| race/any 			| Returns a random race (human), 100% only		|
+| race/mixed		| Returns a mixed race 							|
+| race/rp 			| Returns: Dwarf, Elf, Succubus, Furry, Fairy, Angel |
+| race/scifi 		| Returns: ANY, Cyborg, Android 				|
 
 
-In my conquest to get "an easy as possible" prompt, with as many things "automated" as possible, "SD DynPrompt Char" is just one of multiple packages.
+## Additions:
 
-It is ment to be either "standalone" if you want to define your backgrounds on your own, or as dependency if you want to use my "SD DynPrompt Landscape XL" which provides stunning and awesome landscape prompts.
-
-
-
-# Structure - Basic
-
-You can call either of these keyword: 
-char/race:		This will provide keyword to represent ANY race at random, see below if you want to access different races specificly.
-char/body:		From athletic or curvy to slender or thin, anything but fat or obese. (if you want those, feel free to add them to the textfiles yourself!)
-char/body-sfw		This will not containt any keywords that might trigger the automatic detection of CivitAI.com (as in, avoid TOS violation when used with celebrities)
-char/dress		This will dress the female in regular "tame" clothing. (SD will still show cleavage at times).
-char/dress-sexy		This will dress the female in various sexy, skimpy or even naughty clothing.
-
-
-__pose__
-__pose-sexy__
-__pose-behind__
-
-
-
-# Structure - AIO (All In One)
-char/aio-sfw		
-char/aio-sexy
-
-char/aio-close
-char/aio-far
+| Call 				| Result		|
+|-------------------|---------------|
+| body/sfw 			| Returns a SFW body |
+| body/sexy 		| Returns a sexy body, using more explicit keywords (that might trigger CivitAI filter)
+| cloth/aio-{sfw,sexy} 		| Returns a 'set' of modern clothing, matching the keyword (sfw or sexy)
+| cloth/scifi-{sfw, sexy} 	| Returns a 'set' of science fictional clothing, matching the keyword (sfw or sexy)
+| facial/bad 		| Returns: angry or contempt facial expressions 														|
+| facial/flirt 		| Returns: aroused (like: seductive, flirtatious) or NSFW (incl: blushing, panting) facial expressions 	|
+| facial/good 		| Returns: happy, neutral or otherwise smiling facial expressions 	(best pick for most images)			|
+| facial/shock 		| Returns: fearful, confused or surprised facial expressions 											|
