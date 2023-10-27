@@ -1,0 +1,5 @@
+{ nerd | nerdy }
+business
+skatergirl
+secretary {costume|outfit} , 
+{military|police} uniform,

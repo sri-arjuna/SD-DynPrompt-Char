@@ -1,3 +1,4 @@
+__char/cloth/fav-sfw__
 __char/cloth/shoe__ __char/cloth/underwear__ __char/cloth/jacket__ 
 __char/cloth/shoe__ __char/cloth/dress__ 
 __char/cloth/shoe__ __char/cloth/dress__ __char/cloth/deco__ 
