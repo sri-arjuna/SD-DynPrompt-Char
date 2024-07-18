@@ -1,0 +1,3 @@
+__char/body/shape__ , __char/color/eye__ 
+({slim|thin|slender}) stature has a {hourglass|curvy} figure , __char/color/eye__ 
+{slim|thin|slender} stature has a (__char/body/shape/fit__) figure  , __char/color/eye__ 

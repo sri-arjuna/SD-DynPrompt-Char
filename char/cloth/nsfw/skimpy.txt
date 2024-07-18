@@ -1,0 +1,7 @@
+(thigh high|overknee} heels, __char/cloth/nsfw/underwear__
+{ Thigh-High | Overknee } { boots | heels } with { laces | straps | belts | zipper } , __char/cloth/nsfw/underwear__ , 
+
+thigh high heels, __char/cloth/nsfw/underwear__
+{ Thigh-High | Overknee } { boots | heels } with { laces | straps | belts | zipper } , __char/cloth/nsfw/jacket__
+
+{ Thigh-High | Overknee } { boots | heels } with { laces | straps | belts | zipper } , naked , __char/cloth/nsfw/bondage__

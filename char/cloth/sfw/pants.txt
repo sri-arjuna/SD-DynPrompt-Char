@@ -1,0 +1,7 @@
+jeans
+leather pants
+{formal|cargo|jogging} pants
+loose {cargo|jogging} pants 
+shorts
+leggins
+yoga pants

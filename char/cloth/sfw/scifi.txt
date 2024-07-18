@@ -1,0 +1,3 @@
+{ overknee | thigh-high } { heels | boots } with a sci-fi { bodysuit | wetsuit | form-fitting spacesuit | armor } , (techwear:1.4)
+{ overknee | thigh-high } { heels | boots } with a sci-fi { bodysuit | wetsuit | form-fitting spacesuit | armor } with { iridescent | glowing } accents, (techwear:1.4)
+{ amry boots | goth boots | sneakers } with __char/cloth/sfw/streetwear__ , (techwear:1.4)

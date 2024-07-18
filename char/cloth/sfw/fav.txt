@@ -1,0 +1,5 @@
+{ nerd | nerdy }
+skatergirl
+{ business | office | secretary } { costume | outfit | dress }
+{ military | police | schoolgirl | } uniform
+{ Goth | Baroque } { costume | outfit | dress }

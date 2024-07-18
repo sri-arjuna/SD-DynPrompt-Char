@@ -1,0 +1,9 @@
+__char/cloth/sfw/fav__
+__char/cloth/sfw/dress__
+__char/cloth/sfw/streetwear__
+__char/cloth/sfw/scifi__
+
+#__char/cloth/aio-sexy__
+#__char/cloth/sfw/__
+#__char/cloth/sfw/__
+#__char/cloth/sfw/__

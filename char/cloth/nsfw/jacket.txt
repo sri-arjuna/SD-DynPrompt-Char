@@ -1,0 +1,6 @@
+bolero jacket
+open Jacket
+open Jacket, pulled down jacket
+cropped Hoodie
+very open Vest
+{ Cape | torn Poncho }

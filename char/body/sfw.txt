@@ -1,3 +1,4 @@
-__char/body/shape__ and has __char/body/hip__ , __char/color/eye__ 
-({slim|thin|slender}) stature has a {hourglass|curvy} figure and has __char/body/hip__ , __char/color/eye__ 
-{slim|thin|slender} stature has a (__char/body/fit__) figure and has __char/body/hip__ , __char/color/eye__ 
+__char/body/shape/good__
+__char/body/shape/perfect__
+__char/body/shape/thin__
+__char/body/shape/thicc__

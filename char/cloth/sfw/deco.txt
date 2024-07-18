@@ -1,0 +1,10 @@
+jewelery  
+formal attire 
+{cuff|stud|hoop} earrings 
+{dangle|chanelier} earrings 
+{huggie|threader} earrings 
+{statement|cluster} earrings 
+Ear Jacket 
+necklace 
+choker 
+ellbow-long gloves

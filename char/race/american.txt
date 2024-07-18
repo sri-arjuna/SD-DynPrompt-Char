@@ -1,2 +1,4 @@
-North American { American | Canadian | Mexican | Jamaican | Haitian | Dominican | Cuban | Puerto Rican | Bahamian | Belizean }, 
-South American { Brazilian | Chilean | Argentine | Peruvian | Ecuadorian | Bolivian | Uruguayan | Paraguayan | Guyanese | Surinamese }, 
+# North American
+{ American | Canadian | Mexican | Jamaican | Haitian | Dominican | Cuban | Puerto Rican | Bahamian | Belizean }
+# South American
+{ Brazilian | Chilean | Argentine | Peruvian | Ecuadorian | Bolivian | Uruguayan | Paraguayan | Guyanese | Surinamese }

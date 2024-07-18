@@ -1,2 +1,0 @@
-__char/body/sfw__ { __char/race/any__ | __char/race/scifi__ } __char/cloth/scifi__ 
-__char/body/sfw__ __char/race/any__ __char/cloth/scifi__ 

@@ -1,0 +1,9 @@
+elegant, {ballroom|opera, balcony|opera, stage|dinner party on a terasse|gala party in a wonderful garden}
+city, {on the trottoir|in a shop|walking|sitting on a bench, enjoying the view}
+nightclub, {drinking|dancing|flirting}
+apartment, {at window|on couch|in bathroom|in dressing room|at table|in kittchen}
+beach, {sun bathing|walking on the promenade|sitting on a bench, enjoying the view|sitting at the beach|standing in water, knee deep|kneeling in water, water splashes up her legs}
+in a building, {inside an elevator, view from inside|in an elevator, view from outside|walking up stairs|walking down stairs|drinking water from a fountain}
+lost in a {jungle|deep forrest} , looking {on a compass|on a map | down, ashamed}
+on a very small {island|boat, in the middle of the sea} , shoutiing help
+at the {ship yard|train station|airport|spaceport}

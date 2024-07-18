@@ -1,0 +1,2 @@
+{ Thigh-High | Overknee } { boots | heels } with { laces | straps | belts | zipper }
+__char/cloth/sfw/shoe__

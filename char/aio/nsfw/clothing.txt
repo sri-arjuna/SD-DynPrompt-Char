@@ -1,0 +1,6 @@
+__char/cloth/nsfw/fav__
+__char/cloth/nsfw/dress__
+__char/cloth/nsfw/streetwear__
+__char/cloth/nsfw/scifi__
+__char/cloth/nsfw__
+__char/cloth/nsfw/rp__

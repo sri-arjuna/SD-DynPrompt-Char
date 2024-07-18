@@ -1,0 +1,5 @@
+__char/cloth/nsfw/shoe__ , { __char/cloth/nsfw/pants__ , (low pants, high thong:1.5),  (zipper open:1.2) | __char/cloth/nsfw/skirt__ , (low skirt, high thong:1.5) } , __char/cloth/nsfw/upper__
+__char/cloth/nsfw/shoe__ , { __char/cloth/nsfw/pants__ , (low pants, high thong:1.5) | __char/cloth/nsfw/skirt__ , (low skirt, high thong:1.5) } , __char/cloth/nsfw/upper__ , __char/cloth/nsfw/deco__ 
+__char/cloth/nsfw/shoe__ , { __char/cloth/nsfw/pants__ , (low pants, high thong:1.5),  (zipper open:1.2) | __char/cloth/nsfw/skirt__ , (low skirt, high thong:1.5) } , __char/cloth/nsfw/upper__ , __char/cloth/nsfw/jacket__
+__char/cloth/nsfw/shoe__ , { __char/cloth/nsfw/pants__ , (low pants, high thong:1.5) | __char/cloth/nsfw/skirt__ , (low skirt, high thong:1.5) } , __char/cloth/nsfw/upper__ , __char/cloth/nsfw/jacket__ , __char/cloth/nsfw/deco__ 
+__char/cloth/nsfw/shoe__ , { __char/cloth/nsfw/pants__ , (low pants, high thong:1.5),  (zipper open:1.2) | __char/cloth/nsfw/skirt__ , (low skirt, high thong:1.5) } , __char/cloth/nsfw/upper__ , {{1-2$$ and $$ __char/cloth/nsfw/deco__ | __char/cloth/nsfw/jacket__ }}

@@ -123,3 +123,10 @@ __char/facial/bad__
 __char/facial/flirt__
 __char/facial/good__
 __char/facial/shock__
+
+
+
+------------------------------
+
+MAYBE ?
+[bondage 来吧 go BDSM，NSFW model for SDXL](https://civitai.com/models/136849?modelVersionId=150991)

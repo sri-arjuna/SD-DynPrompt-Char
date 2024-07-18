@@ -1,2 +1,4 @@
 __char/race/any__ 
+__char/race/mixed__
 __char/race/rp__ 
+__char/race/scifi__ 

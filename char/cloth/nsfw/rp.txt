@@ -1,0 +1,5 @@
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/jacket__
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/jacket__
+__char/cloth/nsfw/shoe__ ,  __char/cloth/nsfw/skirt__ , __char/cloth/nsfw/jacket__
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/skirt__

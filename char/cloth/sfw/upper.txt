@@ -1,0 +1,12 @@
+{ Tank | Crop | Peplum } Top
+{ Polo | Button-Up } Shirt
+Blouse
+T-Shirt
+Sweater
+Cardigan
+Shirt
+Camisole
+Bodysuit
+Turtleneck
+Shrug
+Bolero

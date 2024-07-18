@@ -1,0 +1,13 @@
+__char/cloth/sfw/fav__
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/underwear__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/underwear__ , __char/cloth/sfw/jacket__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/dress__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/dress__ , __char/cloth/sfw/deco__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/underwear__ , __char/cloth/sfw/dress__ , __char/cloth/sfw/deco__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/underwear__ , __char/cloth/sfw/skirt__ , __char/cloth/sfw/jacket__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/underwear__ , __char/cloth/sfw/pants__ , __char/cloth/sfw/jacket__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/skirt__ , __char/cloth/sfw/upper__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/skirt__ , __char/cloth/sfw/jacket__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/pants__ , __char/cloth/sfw/upper__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/pants__ , __char/cloth/sfw/upper__ , __char/cloth/sfw/jacket__ 
+__char/cloth/sfw/shoe__ , __char/cloth/sfw/pants____char/cloth/sfw/jacket__ 

@@ -1,0 +1,4 @@
+{2:: __char/race/caucasian__ | __char/race/hispanic__ | __char/race/asian__ } heritage
+{2:: __char/race/caucasian__ | __char/race/mixed__ } heritage
+{2:: __char/race/caucasian__ | __char/race/african__ } heritage
+{2:: __char/race/caucasian__ | __char/race/eastern__ } heritage

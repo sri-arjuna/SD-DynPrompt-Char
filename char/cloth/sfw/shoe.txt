@@ -1,0 +1,4 @@
+{ Ankle strap | Kitten | Gladiator | Platform | Mary Jane | Cone | Peep-Toe | Block } heels
+{ Sneakers | Mules | Oxfords | Ballet flats | Stilettos | Pumps | Loafers }
+{ Army | Ankle } boots
+{ Shoe | Espadrille } wedges

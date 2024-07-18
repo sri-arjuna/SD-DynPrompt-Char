@@ -1,0 +1,3 @@
+(low-waist cut:1.3) { __char/cloth/sfw/pants__ | __char/cloth/sfw/pants__ showing cameltoe }
+(low-waist cut:1.3) {micro|mini|cheeky} { __char/cloth/nsfw/pants__ | __char/cloth/nsfw/pants__ showing cameltoe }
+(low-waist cut:1.3) short { shorts | yoga pants | hot pants } showing cameltoe

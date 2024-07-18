@@ -1,0 +1,17 @@
+__char/cloth/nsfw/fav__
+__char/cloth/nsfw/rp__
+__char/cloth/nsfw/skimpy__
+__char/cloth/nsfw/scifi__
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/dress__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/dress__ , __char/cloth/nsfw/deco__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/dress__ , __char/cloth/nsfw/deco__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/skirt__ , __char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , __char/cloth/nsfw/pants__ , __char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/skirt__ , __char/cloth/nsfw/upper__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/skirt__ , __char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/pants__ , __char/cloth/nsfw/upper__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/pants__ , __char/cloth/nsfw/upper__ , __char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/pants____char/cloth/nsfw/jacket__ 
+__char/cloth/nsfw/shoe__ , __char/cloth/nsfw/underwear__ , corset

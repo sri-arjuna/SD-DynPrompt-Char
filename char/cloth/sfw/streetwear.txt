@@ -1,0 +1,5 @@
+__char/cloth/sfw/shoe__ , { __char/cloth/sfw/pants__ | __char/cloth/sfw/skirt__ } , __char/cloth/sfw/upper__
+__char/cloth/sfw/shoe__ , { __char/cloth/sfw/pants__ | __char/cloth/sfw/skirt__ } , __char/cloth/sfw/upper__ , __char/cloth/sfw/deco__ 
+__char/cloth/sfw/shoe__ , { __char/cloth/sfw/pants__ | __char/cloth/sfw/skirt__ } , __char/cloth/sfw/upper__ , __char/cloth/sfw/jacket__
+__char/cloth/sfw/shoe__ , { __char/cloth/sfw/pants__ | __char/cloth/sfw/skirt__ } , __char/cloth/sfw/upper__ , __char/cloth/sfw/jacket__ , __char/cloth/sfw/deco__ 
+__char/cloth/sfw/shoe__ , { __char/cloth/sfw/pants__ | __char/cloth/sfw/skirt__ } , __char/cloth/sfw/upper__ , {{1-2$$ and $$ __char/cloth/sfw/deco__ | __char/cloth/sfw/jacket__ }}

@@ -1,0 +1,6 @@
+__char/body/shape/good__ with __char/body/shape/NSFW/bust/big__ in  __char/body/shape/NSFW/bust/shape__
+__char/body/shape/perfect__
+__char/body/shape/NSFW/sexy__
+__char/body/shape/NSFW/fit__
+__char/body/shape/perfect__ with { __char/body/shape/NSFW/bust/big__ | __char/body/shape/NSFW/bust/small__ } in  __char/body/shape/NSFW/bust/shape__
+__char/body/shape/good__ with  __char/body/shape/NSFW/bust/big__

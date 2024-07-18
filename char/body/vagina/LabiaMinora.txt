@@ -1,5 +1,0 @@
-prominent
-small 
-large
-full
-peach-like

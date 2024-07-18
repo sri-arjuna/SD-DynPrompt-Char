@@ -1,0 +1,8 @@
+{ Pencil | Wrap | Mini | Micro | Flared | Asymmetrical | Peplum | Accordion} { Skirt | Upskirt | lifted skirt }
+Pencil Skirt, side cut on {one side|both sides} , 
+Wrap Skirt, side cut on {one side|both sides} , 
+Mini Skirt, side cut on {one side|both sides} , 
+Flared Skirt, side cut on {one side|both sides} , 
+Asymmetrical Skirt, side cut on {one side|both sides} , 
+Peplum Skirt, side cut on {one side|both sides} , 
+Accordion Skirt, side cut on {one side|both sides}, 
